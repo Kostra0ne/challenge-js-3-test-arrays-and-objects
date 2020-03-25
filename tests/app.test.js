@@ -9,8 +9,7 @@ const {
   getSmallestPrice,
   getHighestPrice,
   getNullPricedIDs,
-  getBrands,
-  getCurrencyInOrder
+  getBrands
 } = require("./../src/app");
 
 // DEMO
